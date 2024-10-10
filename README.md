@@ -46,9 +46,6 @@ We encourage the CSGO community to contribute to our database. If you have a uni
 
 If you have any suggestions, encounter issues, or want to contribute to the project's development, please open an issue or submit a pull request on this GitHub repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
